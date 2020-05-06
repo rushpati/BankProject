@@ -12,4 +12,7 @@ public class StudentController {
 
 		return "welcome controller";
 	}
+	public void m1() {
+		System.out.println("i'm happy"); 
+		}
 }
