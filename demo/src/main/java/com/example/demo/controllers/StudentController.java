@@ -15,4 +15,7 @@ public class StudentController {
 	public void m1() {
 		System.out.println("i'm happy"); 
 		}
+	public void m4() {
+		System.out.println("m4 created ");
+	}
 }
