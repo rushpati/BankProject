@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>BankProject_DEV_1</name>
+=======
+	<name>BankProject_TL</name>
+>>>>>>> branch 'master' of https://github.com/rushpati/BankProject.git
 	<comment></comment>
 	<projects>
 	</projects>
