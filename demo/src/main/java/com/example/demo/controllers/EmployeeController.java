@@ -9,4 +9,8 @@ public class EmployeeController {
 	public String showListOfEmployees() {
 		return "emp";
 	}
+	
+	public void y() {
+		
+	}
 }
