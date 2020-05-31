@@ -6,4 +6,7 @@ public class HowkerController {
         System.out.println("howker added s");
     }
 
+    public static void startHawker(){
+        System.out.println("hawker in you area ");
+    }
 }
