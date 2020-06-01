@@ -9,4 +9,7 @@ public class HowkerController {
     public static void startHawker(){
         System.out.println("hawker in you area ");
     }
+    public void stop(){
+        System.out.println("stop hawker");
+    }
 }
